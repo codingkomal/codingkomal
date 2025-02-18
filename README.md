@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @codingkomal
+- 👋 Hi, I’m @komal
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on to work jointly with others or together especially in an intellectual endeavor
 - 📫 Reach me at this email komalv5001@gmail.com
 - ⚡ Fun fact: ... THE MOST USED ADJECTIVE IN THE ENGLISH LANGUAGE IS (GOOD)
